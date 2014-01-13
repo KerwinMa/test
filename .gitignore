@@ -1,0 +1,16 @@
+Debug/
+.svn/
+.metadata/
+.settings/
+horos
+*.o
+*~
+*.sh
+*.d
+*.log
+.gdbinit
+INSTALL
+missing
+.deps/
+*so
+*so.*
