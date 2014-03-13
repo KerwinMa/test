@@ -154,3 +154,23 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+
+
+# my personal .ignorelist
+Debug/
+.svn/
+.metadata/
+.settings/
+horos
+*.o
+*~
+*.sh
+*.d
+*.log
+.gdbinit
+INSTALL
+missing
+.deps/
+*so
+*so.*
+
